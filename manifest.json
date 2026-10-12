@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "requests",
+  "repo": "requests-threads",
+  "versions": [
+    {
+      "commit": "b4d4384da96b09a98c97abb07b38caa72f5404cf",
+      "parsed_at": "2026-10-12T05:20:59.469755+00:00",
+      "filetree": "filetree/b4d4384da96b09a98c97abb07b38caa72f5404cf.nq.gz",
+      "blobs": [
+        "blob/b548e9655f4ee6c0a84bd635ead772bbac2c3a97.nq.gz",
+        "blob/a046d3865c4baaffe0338700040abd2d935a9e02.nq.gz",
+        "blob/0e6676a9cc7339e0a7ab63528147b032a1fa4cfc.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
