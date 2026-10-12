@@ -1,0 +1,11 @@
+{
+  "org": "requests",
+  "repo": "requests-threads",
+  "versions": [
+    {
+      "commit": "b4d4384da96b09a98c97abb07b38caa72f5404cf",
+      "tag": "",
+      "parsed_at": "2026-10-12T05:22:47.367976+00:00"
+    }
+  ]
+}
